@@ -9,7 +9,6 @@ Inbound lead funnel analysis in Python (pandas): where 100 inbound leads drop of
 ![Volume vs meeting rate by funding](outputs/volume_vs_meeting_rate_by_funding.png)
 ![Meeting rate by company size and job level](outputs/Meeting_rate_by_size_and_job.png)
 
-**About Me**
-Linkedin: https://www.linkedin.com/in/neritya-bighot-550668310/
-Email: nerityab@gmail.com
-Instagram: n8ritya
+---
+**Neritya** | GTM / RevOps
+Linkedin: https://www.linkedin.com/in/neritya-bighot-550668310/ · Email: nerityab@gmail.com · Instagram: n8ritya
