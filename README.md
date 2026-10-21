@@ -2,8 +2,7 @@
 Inbound lead funnel analysis in Python (pandas): where 100 inbound leads drop off, why the current ICP doesn’t predict meetings, and what to change. Includes report, notebook and cleaned data.
 
 
-![Pyramid](outputs/image.png)
-![Funnel](outputs/funnel_chart.png)
+![Funnel](outputs/image.png)
 ![Reply rate by speed of first email](outputs/reply_rate_by_email.png)
 ![Volume vs meeting rate by job level](outputs/volume_vs_meeting_rate_by_level.png)
 ![Volume vs meeting rate by company size](outputs/volume_vs_meeting_rate_by_size.png)
