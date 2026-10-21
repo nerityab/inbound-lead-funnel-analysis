@@ -1,0 +1,101 @@
+,Lead_id,Contact_id,Lead_name,Company_domain,Job_title,Job_level,Form_submission_date,First_email_sent_date,Reply_date,Email_replied,Qualified_lead,Meeting_booked,Sales_owner,Company_size,Funding_status,Sales_team_size,Growth_team_size,days_to_first_email,days_to_reply,min_size,max_size,ICP_match
+0,L0001,C0001,Emerson Martin,agencyhub.co,Account Executive,IC,2026-01-15,2026-01-22,,False,False,False,Inbound_Team,1-10,Seed,6,1,7,,1,10,False
+1,L0002,C0002,Casey Johnson,revopscloud.com,Marketing Manager,Manager,2026-01-09,2026-01-14,2026-01-23,True,False,False,Rep_A,201-500,Series B,69,20,5,9,201,500,True
+2,L0003,C0003,Jordan Wilson,revopscloud.com,Director of Sales,Director,2026-02-08,2026-02-11,,False,False,False,Rep_D,201-500,Series B,69,20,3,,201,500,True
+3,L0004,C0004,Emerson Martin,saasworks.ai,Director of Sales,Director,2026-02-27,2026-03-02,2026-03-04,True,False,False,Inbound_Team,51-200,Bootstrapped,20,9,3,2,51,200,False
+4,L0005,C0005,Alex Martin,saasworks.ai,Marketing Manager,Manager,2026-01-19,2026-01-20,,False,False,False,Inbound_Team,51-200,Bootstrapped,20,9,1,,51,200,False
+5,L0006,C0006,Blake Jackson,enterprisetech.com,Head of Growth,Manager,2026-01-10,2026-01-13,,False,False,False,Inbound_Team,1000+,Public,128,63,3,,1000,,False
+6,L0007,C0007,Riley Johnson,startupco.com,Account Executive,IC,2026-01-14,2026-01-14,2026-01-16,True,False,False,Rep_C,501-1000,Public,145,62,0,2,501,1000,False
+7,L0008,C0008,Hayden Wilson,startupco.com,Account Executive,IC,2026-01-12,2026-01-17,2026-01-21,True,False,False,Rep_D,501-1000,Public,145,62,5,4,501,1000,False
+8,L0009,C0009,Logan Moore,saasworks.ai,Revenue Operations Manager,Manager,2026-02-17,2026-02-22,2026-02-23,True,False,False,Inbound_Team,51-200,Bootstrapped,20,9,5,1,51,200,False
+9,L0010,C0010,Riley King,revopscloud.com,Sales Development Representative,IC,2026-01-24,2026-01-26,,False,False,False,Rep_C,201-500,Series B,69,20,2,,201,500,True
+10,L0011,C0011,Emerson Brown,agencyhub.co,CEO,Founder,2026-02-21,2026-02-24,2026-03-04,True,False,False,Rep_C,1-10,Seed,6,1,3,8,1,10,False
+11,L0012,C0012,Blake White,startupco.com,Account Executive,IC,2026-01-14,2026-01-19,2026-01-26,True,False,False,Rep_D,501-1000,Public,145,62,5,7,501,1000,False
+12,L0013,C0013,Rowan Thomas,saasworks.ai,Revenue Operations Manager,Manager,2026-02-14,2026-02-21,,False,False,False,Rep_A,51-200,Bootstrapped,20,9,7,,51,200,False
+13,L0014,C0014,Riley Davis,growthlabs.io,Head of Growth,Manager,2026-01-04,2026-01-05,,False,False,False,Rep_B,51-200,Series B,27,13,1,,51,200,True
+14,L0015,C0015,Emerson Davis,agencyhub.co,Head of Growth,Manager,2026-02-26,2026-02-28,,False,False,False,Rep_C,1-10,Seed,6,1,2,,1,10,False
+15,L0016,C0016,Drew Moore,revopscloud.com,Account Executive,IC,2026-01-29,2026-02-03,2026-02-07,True,False,False,Rep_B,201-500,Series B,69,20,5,4,201,500,True
+16,L0017,C0017,Alex Thomas,enterprisetech.com,Account Executive,IC,2026-02-27,2026-02-28,2026-03-05,True,True,False,Rep_A,1000+,Public,128,63,1,5,1000,,False
+17,L0018,C0018,Emerson Smith,revopscloud.com,Account Executive,IC,2026-03-01,2026-03-06,2026-03-13,True,False,False,Rep_B,201-500,Series B,69,20,5,7,201,500,True
+18,L0019,C0019,Casey Lewis,fintechflow.com,Marketing Manager,Manager,2026-01-04,2026-01-09,,False,False,False,Rep_D,11-50,Series A,4,6,5,,11,50,True
+19,L0020,C0020,Quinn Anderson,revopscloud.com,Marketing Manager,Manager,2026-01-05,2026-01-10,,False,False,False,Rep_D,201-500,Series B,69,20,5,,201,500,True
+20,L0021,C0021,Avery Lee,marketgen.io,Account Executive,IC,2026-02-26,2026-03-03,2026-03-13,True,True,False,Rep_D,201-500,Series C,78,41,5,10,201,500,True
+21,L0022,C0022,Casey Brown,enterprisetech.com,Head of Growth,Manager,2026-02-06,2026-02-08,2026-02-17,True,True,False,Rep_A,1000+,Public,128,63,2,9,1000,,False
+22,L0023,C0023,Riley Martin,startupco.com,Account Executive,IC,2026-02-17,2026-02-22,2026-03-04,True,True,False,Rep_D,501-1000,Public,145,62,5,10,501,1000,False
+23,L0024,C0024,Drew Lewis,fintechflow.com,Marketing Manager,Manager,2026-02-04,2026-02-09,,False,False,False,Rep_A,11-50,Series A,4,6,5,,11,50,True
+24,L0025,C0025,Taylor Garcia,agencyhub.co,Marketing Manager,Manager,2026-01-13,2026-01-16,,False,False,False,Rep_B,1-10,Seed,6,1,3,,1,10,False
+25,L0026,C0026,Logan Johnson,saasworks.ai,Revenue Operations Manager,Manager,2026-02-13,2026-02-14,2026-02-18,True,True,True,Rep_B,51-200,Bootstrapped,20,9,1,4,51,200,False
+26,L0027,C0027,Parker King,fintechflow.com,Revenue Operations Manager,Manager,2026-02-08,2026-02-10,,False,False,False,Rep_A,11-50,Series A,4,6,2,,11,50,True
+27,L0028,C0028,Reese Anderson,enterprisetech.com,Sales Development Representative,IC,2026-01-04,2026-01-09,,False,False,False,Rep_D,1000+,Public,128,63,5,,1000,,False
+28,L0029,C0029,Riley Allen,fintechflow.com,Revenue Operations Manager,Manager,2026-01-10,2026-01-17,2026-01-21,True,False,False,Rep_A,11-50,Series A,4,6,7,4,11,50,True
+29,L0030,C0030,Casey King,startupco.com,Director of Sales,Director,2026-02-06,2026-02-08,2026-02-09,True,False,False,Rep_A,501-1000,Public,145,62,2,1,501,1000,False
+30,L0031,C0031,Casey Anderson,agencyhub.co,VP Sales,VP,2026-02-10,2026-02-13,,False,False,False,Rep_A,1-10,Seed,6,1,3,,1,10,False
+31,L0032,C0032,Casey Lewis,enterprisetech.com,Account Executive,IC,2026-02-18,2026-02-23,2026-02-26,True,True,False,Rep_C,1000+,Public,128,63,5,3,1000,,False
+32,L0033,C0033,Hayden Young,growthlabs.io,Director of Sales,Director,2026-02-12,2026-02-15,2026-02-17,True,True,False,Rep_A,51-200,Series B,27,13,3,2,51,200,True
+33,L0034,C0034,Emerson Johnson,startupco.com,Marketing Manager,Manager,2026-02-21,2026-02-23,2026-03-02,True,True,True,Rep_C,501-1000,Public,145,62,2,7,501,1000,False
+34,L0035,C0035,Rowan Martin,growthlabs.io,Marketing Manager,Manager,2026-01-25,2026-01-30,2026-02-09,True,True,True,Rep_A,51-200,Series B,27,13,5,10,51,200,True
+35,L0036,C0036,Taylor Jackson,marketgen.io,Account Executive,IC,2026-01-09,2026-01-16,2026-01-20,True,False,False,Rep_B,201-500,Series C,78,41,7,4,201,500,True
+36,L0037,C0037,Drew Clark,agencyhub.co,CEO,Founder,2026-01-17,2026-01-17,2026-01-24,True,False,False,Rep_C,1-10,Seed,6,1,0,7,1,10,False
+37,L0038,C0038,Casey Thomas,growthlabs.io,CEO,Founder,2026-02-18,2026-02-25,2026-02-27,True,True,True,Rep_A,51-200,Series B,27,13,7,2,51,200,True
+38,L0039,C0039,Finley Young,saasworks.ai,Account Executive,IC,2026-02-26,2026-03-01,2026-03-04,True,True,True,Rep_A,51-200,Bootstrapped,20,9,3,3,51,200,False
+39,L0040,C0040,Parker Harris,revopscloud.com,Founder,Founder,2026-02-02,2026-02-09,,False,False,False,Rep_A,201-500,Series B,69,20,7,,201,500,True
+40,L0041,C0041,Morgan Lee,agencyhub.co,Account Executive,IC,2026-01-10,2026-01-13,,False,False,False,Rep_D,1-10,Seed,6,1,3,,1,10,False
+41,L0042,C0042,Skyler Smith,agencyhub.co,Revenue Operations Manager,Manager,2026-01-06,2026-01-06,,False,False,False,Rep_C,1-10,Seed,6,1,0,,1,10,False
+42,L0043,C0043,Emerson Miller,marketgen.io,Sales Development Representative,IC,2026-02-18,2026-02-19,2026-02-23,True,True,False,Rep_C,201-500,Series C,78,41,1,4,201,500,True
+43,L0044,C0044,Casey White,revopscloud.com,Sales Development Representative,IC,2026-03-01,2026-03-08,,False,False,False,Rep_C,201-500,Series B,69,20,7,,201,500,True
+44,L0045,C0045,Reese Garcia,agencyhub.co,Account Executive,IC,2026-02-11,2026-02-18,2026-02-27,True,True,True,Rep_C,1-10,Seed,6,1,7,9,1,10,False
+45,L0046,C0046,Blake Davis,marketgen.io,Director of Sales,Director,2026-01-27,2026-01-27,,False,False,False,Rep_B,201-500,Series C,78,41,0,,201,500,True
+46,L0047,C0047,Riley King,saasworks.ai,Sales Development Representative,IC,2026-02-16,2026-02-21,,False,False,False,Rep_A,51-200,Bootstrapped,20,9,5,,51,200,False
+47,L0048,C0048,Cameron Johnson,saasworks.ai,Account Executive,IC,2026-02-13,2026-02-14,2026-02-20,True,False,False,Rep_C,51-200,Bootstrapped,20,9,1,6,51,200,False
+48,L0049,C0049,Cameron Miller,marketgen.io,Founder,Founder,2026-02-25,2026-03-04,,False,False,False,Rep_C,201-500,Series C,78,41,7,,201,500,True
+49,L0050,C0050,Blake Lewis,startupco.com,Account Executive,IC,2026-01-06,2026-01-07,2026-01-08,True,False,False,Inbound_Team,501-1000,Public,145,62,1,1,501,1000,False
+50,L0051,C0051,Logan Lewis,agencyhub.co,VP Sales,VP,2026-01-02,2026-01-04,,False,False,False,Rep_C,1-10,Seed,6,1,2,,1,10,False
+51,L0052,C0052,Emerson Lee,revopscloud.com,VP Sales,VP,2026-01-01,2026-01-08,2026-01-12,True,False,False,Rep_C,201-500,Series B,69,20,7,4,201,500,True
+52,L0053,C0053,Reese Clark,fintechflow.com,Head of Growth,Manager,2026-02-07,2026-02-09,,False,False,False,Inbound_Team,11-50,Series A,4,6,2,,11,50,True
+53,L0054,C0054,Drew Garcia,revopscloud.com,Growth Manager,Manager,2026-01-08,2026-01-09,,False,False,False,Inbound_Team,201-500,Series B,69,20,1,,201,500,True
+54,L0055,C0055,Skyler Lee,enterprisetech.com,Marketing Manager,Manager,2026-01-25,2026-01-25,2026-01-28,True,True,False,Rep_A,1000+,Public,128,63,0,3,1000,,False
+55,L0056,C0056,Reese White,saasworks.ai,CEO,Founder,2026-01-17,2026-01-20,,False,False,False,Inbound_Team,51-200,Bootstrapped,20,9,3,,51,200,False
+56,L0057,C0057,Reese Lee,enterprisetech.com,Revenue Operations Manager,Manager,2026-02-27,2026-03-06,,False,False,False,Rep_D,1000+,Public,128,63,7,,1000,,False
+57,L0058,C0058,Finley Young,startupco.com,Account Executive,IC,2026-02-18,2026-02-19,2026-03-01,True,False,False,Rep_D,501-1000,Public,145,62,1,10,501,1000,False
+58,L0059,C0059,Morgan Garcia,growthlabs.io,VP Sales,VP,2026-01-23,2026-01-28,2026-02-04,True,True,False,Rep_C,51-200,Series B,27,13,5,7,51,200,True
+59,L0060,C0060,Quinn King,growthlabs.io,Account Executive,IC,2026-01-23,2026-01-28,,False,False,False,Inbound_Team,51-200,Series B,27,13,5,,51,200,True
+60,L0061,C0061,Cameron White,enterprisetech.com,Director of Sales,Director,2026-02-23,2026-02-25,,False,False,False,Rep_C,1000+,Public,128,63,2,,1000,,False
+61,L0062,C0062,Drew King,agencyhub.co,Sales Development Representative,IC,2026-03-02,2026-03-03,2026-03-05,True,False,False,Rep_B,1-10,Seed,6,1,1,2,1,10,False
+62,L0063,C0063,Finley Clark,marketgen.io,VP Sales,VP,2026-01-24,2026-01-25,2026-01-30,True,False,False,Rep_D,201-500,Series C,78,41,1,5,201,500,True
+63,L0064,C0064,Logan Martin,startupco.com,VP Sales,VP,2026-01-17,2026-01-18,2026-01-21,True,False,False,Rep_B,501-1000,Public,145,62,1,3,501,1000,False
+64,L0065,C0065,Jamie Garcia,agencyhub.co,Account Executive,IC,2026-02-06,2026-02-09,2026-02-11,True,False,False,Rep_D,1-10,Seed,6,1,3,2,1,10,False
+65,L0066,C0066,Morgan Anderson,revopscloud.com,Account Executive,IC,2026-02-09,2026-02-11,,False,False,False,Rep_D,201-500,Series B,69,20,2,,201,500,True
+66,L0067,C0067,Blake Jackson,agencyhub.co,Marketing Manager,Manager,2026-02-16,2026-02-17,2026-02-23,True,False,False,Rep_A,1-10,Seed,6,1,1,6,1,10,False
+67,L0068,C0068,Taylor Harris,fintechflow.com,Account Executive,IC,2026-01-20,2026-01-22,,False,False,False,Rep_C,11-50,Series A,4,6,2,,11,50,True
+68,L0069,C0069,Alex Johnson,revopscloud.com,Account Executive,IC,2026-02-08,2026-02-11,2026-02-20,True,False,False,Rep_D,201-500,Series B,69,20,3,9,201,500,True
+69,L0070,C0070,Jamie Lee,revopscloud.com,Director of Sales,Director,2026-02-20,2026-02-27,,False,False,False,Rep_C,201-500,Series B,69,20,7,,201,500,True
+70,L0071,C0071,Emerson Wilson,revopscloud.com,Director of Sales,Director,2026-02-09,2026-02-10,2026-02-20,True,True,True,Rep_D,201-500,Series B,69,20,1,10,201,500,True
+71,L0072,C0072,Finley Lewis,growthlabs.io,Account Executive,IC,2026-02-14,2026-02-17,,False,False,False,Inbound_Team,51-200,Series B,27,13,3,,51,200,True
+72,L0073,C0073,Morgan Miller,startupco.com,VP Sales,VP,2026-01-29,2026-02-05,2026-02-11,True,False,False,Rep_A,501-1000,Public,145,62,7,6,501,1000,False
+73,L0074,C0074,Reese Allen,revopscloud.com,CEO,Founder,2026-02-24,2026-02-24,2026-02-26,True,True,True,Rep_C,201-500,Series B,69,20,0,2,201,500,True
+74,L0075,C0075,Quinn Allen,fintechflow.com,Marketing Manager,Manager,2026-01-19,2026-01-21,,False,False,False,Rep_B,11-50,Series A,4,6,2,,11,50,True
+75,L0076,C0076,Jordan Brown,growthlabs.io,Growth Manager,Manager,2026-02-08,2026-02-10,2026-02-13,True,False,False,Rep_D,51-200,Series B,27,13,2,3,51,200,True
+76,L0077,C0077,Emerson Smith,startupco.com,Revenue Operations Manager,Manager,2026-01-28,2026-01-29,2026-01-30,True,False,False,Rep_B,501-1000,Public,145,62,1,1,501,1000,False
+77,L0078,C0078,Quinn Wilson,enterprisetech.com,Director of Sales,Director,2026-02-20,2026-02-23,2026-03-01,True,True,False,Rep_B,1000+,Public,128,63,3,6,1000,,False
+78,L0079,C0079,Morgan Martin,fintechflow.com,Director of Sales,Director,2026-02-14,2026-02-15,2026-02-23,True,False,False,Rep_B,11-50,Series A,4,6,1,8,11,50,True
+79,L0080,C0080,Avery King,revopscloud.com,Revenue Operations Manager,Manager,2026-02-08,2026-02-10,,False,False,False,Rep_A,201-500,Series B,69,20,2,,201,500,True
+80,L0081,C0081,Cameron Miller,agencyhub.co,CEO,Founder,2026-02-05,2026-02-08,,False,False,False,Inbound_Team,1-10,Seed,6,1,3,,1,10,False
+81,L0082,C0082,Avery Jackson,saasworks.ai,Account Executive,IC,2026-02-25,2026-03-04,,False,False,False,Rep_D,51-200,Bootstrapped,20,9,7,,51,200,False
+82,L0083,C0083,Jamie Garcia,growthlabs.io,Founder,Founder,2026-02-20,2026-02-20,2026-03-02,True,False,False,Rep_C,51-200,Series B,27,13,0,10,51,200,True
+83,L0084,C0084,Reese White,growthlabs.io,Account Executive,IC,2026-01-25,2026-01-25,,False,False,False,Inbound_Team,51-200,Series B,27,13,0,,51,200,True
+84,L0085,C0085,Cameron Miller,growthlabs.io,Revenue Operations Manager,Manager,2026-01-02,2026-01-02,,False,False,False,Rep_B,51-200,Series B,27,13,0,,51,200,True
+85,L0086,C0086,Taylor Lee,marketgen.io,Head of Growth,Manager,2026-02-21,2026-02-24,,False,False,False,Rep_B,201-500,Series C,78,41,3,,201,500,True
+86,L0087,C0087,Cameron Brown,saasworks.ai,Marketing Manager,Manager,2026-01-16,2026-01-23,,False,False,False,Rep_A,51-200,Bootstrapped,20,9,7,,51,200,False
+87,L0088,C0088,Riley King,saasworks.ai,Founder,Founder,2026-02-21,2026-02-23,2026-02-26,True,False,False,Rep_C,51-200,Bootstrapped,20,9,2,3,51,200,False
+88,L0089,C0089,Blake Wilson,startupco.com,Growth Manager,Manager,2026-02-26,2026-03-05,2026-03-11,True,False,False,Inbound_Team,501-1000,Public,145,62,7,6,501,1000,False
+89,L0090,C0090,Quinn Harris,saasworks.ai,Marketing Manager,Manager,2026-01-20,2026-01-21,2026-01-22,True,True,True,Inbound_Team,51-200,Bootstrapped,20,9,1,1,51,200,False
+90,L0091,C0091,Morgan Smith,revopscloud.com,VP Sales,VP,2026-01-05,2026-01-10,2026-01-12,True,True,True,Rep_C,201-500,Series B,69,20,5,2,201,500,True
+91,L0092,C0092,Taylor Wilson,enterprisetech.com,Account Executive,IC,2026-02-16,2026-02-16,2026-02-24,True,False,False,Inbound_Team,1000+,Public,128,63,0,8,1000,,False
+92,L0093,C0093,Blake Harris,revopscloud.com,Revenue Operations Manager,Manager,2026-02-09,2026-02-10,,False,False,False,Rep_D,201-500,Series B,69,20,1,,201,500,True
+93,L0094,C0094,Finley Clark,enterprisetech.com,Founder,Founder,2026-01-23,2026-01-23,2026-01-30,True,False,False,Inbound_Team,1000+,Public,128,63,0,7,1000,,False
+94,L0095,C0095,Blake Lewis,revopscloud.com,Growth Manager,Manager,2026-02-02,2026-02-09,2026-02-11,True,False,False,Rep_A,201-500,Series B,69,20,7,2,201,500,True
+95,L0096,C0096,Skyler White,fintechflow.com,Founder,Founder,2026-01-31,2026-02-01,,False,False,False,Rep_C,11-50,Series A,4,6,1,,11,50,True
+96,L0097,C0097,Avery Harris,enterprisetech.com,Account Executive,IC,2026-01-08,2026-01-08,,False,False,False,Rep_D,1000+,Public,128,63,0,,1000,,False
+97,L0098,C0098,Riley Jackson,startupco.com,Sales Development Representative,IC,2026-03-01,2026-03-08,,False,False,False,Rep_D,501-1000,Public,145,62,7,,501,1000,False
+98,L0099,C0099,Quinn Anderson,agencyhub.co,Account Executive,IC,2026-01-08,2026-01-11,2026-01-21,True,True,False,Inbound_Team,1-10,Seed,6,1,3,10,1,10,False
+99,L0100,C0100,Quinn Lee,growthlabs.io,Sales Development Representative,IC,2026-02-04,2026-02-07,,False,False,False,Inbound_Team,51-200,Series B,27,13,3,,51,200,True
