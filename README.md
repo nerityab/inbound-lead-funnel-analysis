@@ -1,5 +1,5 @@
 # inbound-lead-funnel-analysis
-## Analysis report contained in the inboundanalysis.pdf
+## Note: Analysis report contained in the inboundanalysis.pdf
 Inbound lead funnel analysis in Python (pandas): where 100 inbound leads drop off, why the current ICP doesn’t predict meetings, and what to change. Includes report, notebook and cleaned data.
 
 Analysis report contained in the inboundanalysis.pdf
